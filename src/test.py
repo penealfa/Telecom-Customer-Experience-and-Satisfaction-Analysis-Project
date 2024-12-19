@@ -1,0 +1,1 @@
+print("Hey 10 academy");
